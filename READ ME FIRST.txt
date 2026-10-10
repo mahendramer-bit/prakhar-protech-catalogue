@@ -1,0 +1,7 @@
+PRAKHAR PRO-TECH WEBSITE
+
+This folder is a complete website. Unzip it, then upload EVERYTHING inside (index.html and the files folder) to your web hosting, keeping the same structure.
+The page people open is index.html.
+Created: 10/10/2026, 9:52:40 PM
+
+To update the website later: add or change products in Manage catalogue, create a new website zip, and upload it again over the old one.
